@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InstaApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string  name="client_id"> 634afb35006d4a83904e105af0047a45 </string>
+	<string  name="client_secret"> 3489af84a65e4e07b02b1ab5d7561292  </string> 	
+
+		<!-- Website URL 	https://instagram.com/oauth/authorize/
+		Redirect URI 	https://instagram.com/oauth/authorize/ -->
+
+</resources>
